@@ -7,7 +7,7 @@ import { roboto } from "./lib/fonts";
 import ContacsSection from "./ui/contacsSection/contacsSection";
 
 export const metadata: Metadata = {
-  title: "О, Вингорад | Апарт-отель",
+  title: "О, Виноград | Апарт-отель",
   description:
     "Апарт-отель “О, Виноград” - идеальное место для незабываемого отдыха в самом сердце Сочи! ",
 };
